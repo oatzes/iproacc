@@ -13,7 +13,9 @@
       "Bash(cp /Users/thanawatariyacharinthorn/Documents/iproacc/logo.png /tmp/iproacc/)",
       "Bash(cp /Users/thanawatariyacharinthorn/Documents/iproacc/index.html /tmp/iproacc/index.html)",
       "Bash(curl -sI \"https://maps.app.goo.gl/Bx9Lz1ZtFdwucQCw8\")",
-      "Bash(open /Users/thanawatariyacharinthorn/Documents/iproacc/index.html)"
+      "Bash(open /Users/thanawatariyacharinthorn/Documents/iproacc/index.html)",
+      "Bash(gh --version)",
+      "Bash(brew install *)"
     ]
   }
 }
