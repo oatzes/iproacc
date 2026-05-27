@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(ls ~/Downloads/ | grep -i \"ipro\\\\|logo\\\\|iPro\" 2>/dev/null | head -10)",
+      "Bash(cp ~/Downloads/\"Logo Green.png\" /Users/thanawatariyacharinthorn/Documents/iproacc/logo.png)",
+      "Bash(php --version)",
+      "Bash(ls /usr/local/bin/ | grep -E \"node|python|ruby|caddy|serve|http\" 2>/dev/null; ls /opt/homebrew/bin/ | grep -E \"node|python|serve|caddy\" 2>/dev/null; which python3.11 2>/dev/null; which python3.12 2>/dev/null)",
+      "Bash(brew list *)",
+      "Bash(mkdir -p /tmp/iproacc)",
+      "Bash(cp /Users/thanawatariyacharinthorn/Documents/iproacc/index.html /tmp/iproacc/)",
+      "Bash(cp /Users/thanawatariyacharinthorn/Documents/iproacc/logo.png /tmp/iproacc/)",
+      "Bash(cp /Users/thanawatariyacharinthorn/Documents/iproacc/index.html /tmp/iproacc/index.html)",
+      "Bash(curl -sI \"https://maps.app.goo.gl/Bx9Lz1ZtFdwucQCw8\")",
+      "Bash(open /Users/thanawatariyacharinthorn/Documents/iproacc/index.html)"
+    ]
+  }
+}
